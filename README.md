@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3E957B&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+PEDRO+HENRIQUE+DE+OLIVEIRA+👋;MORO+EM+VARGINHA/MG;ESTUDO+CIÊNCIA+DA+COMPUTAÇÃO;BE+WELCOME!+😁)](https://git.io/typing-svg)
 
-<div>
+<div align="center">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pdro-h0&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdro-h0&layout=compact&langs_count=16&theme=aura"/>
 </div
