@@ -23,6 +23,7 @@
     <div align="center">
        <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
        <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+       <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     </div>
    </div>
     
@@ -41,12 +42,5 @@
     </a>
     </div>
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pdro-h0}/count.svg" /></p> 
-<br>
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B67DB&height=120&section=footer"/>
