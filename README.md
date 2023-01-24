@@ -31,7 +31,7 @@
   
   <h1 align="center">Redes Sociais 🌐</h1>
   <div align="center">
-    <a href = "https://www.linkedin.com/in/pedro-h/">
+    <a href = "https://www.linkedin.com/in/pedro-h-b7547588/">
       <img height="40px" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
     </a>
     <a href = "https://www.instagram.com/pdro_h0/">
