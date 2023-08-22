@@ -30,6 +30,7 @@
       <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
          <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
       <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
    </div>
     
