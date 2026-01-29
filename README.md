@@ -29,7 +29,8 @@
   <div style="display: inline_block"><br>
     <h1 align="center" color=8B67DB>Aprendendo no momento 📖</h1>
     <div align="center">
-      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white">
       <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
       <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
