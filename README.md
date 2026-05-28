@@ -17,23 +17,10 @@
     <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-    </div>
-   </div>
-   
-   <div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center" color=8B67DB>Aprendendo no momento 📖</h1>
-    <div align="center">
-      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white">
-      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
-      <img align="center" height="40px" alt="js-icon" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </div>
    </div>
     
@@ -43,12 +30,6 @@
   <div align="center">
     <a href = "https://www.linkedin.com/in/pedro-h-b7547588/">
       <img height="40px" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/>
-    </a>
-    <a href = "https://www.instagram.com/pdro_h0/">
-      <img height="40px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href = "https://www.facebook.com/people/Pedro-Henrique/100005648435988/?sk=friends">
-      <img height="40px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     </div>
 </div>
